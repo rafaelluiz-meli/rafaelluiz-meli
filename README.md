@@ -1,7 +1,7 @@
 ### Bem Vindo 👋
 
-🔭 I’m currently working on Mercado Livre
-- 🌱 I’m currently learning JAVA and Spring
+🔭 I’m currently working on Mercado Livre <br>
+- 🌱 I’m currently learning JAVA and Spring <br>
 💬 Ask me about music and universe
 <!--
 **rafaelluiz-meli/rafaelluiz-meli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
