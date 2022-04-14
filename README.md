@@ -1,5 +1,4 @@
-### Bem Vindo 👋
-
+### Bem Vindo 👋<p>
 🔭 I’m currently working on Mercado Livre <br>
 - 🌱 I’m currently learning JAVA and Spring <br>
 💬 Ask me about music and universe
